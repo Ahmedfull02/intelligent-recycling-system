@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "cardboard"
+    },
+    {
+      "id": 1,
+      "name": "glass"
+    },
+    {
+      "id": 2,
+      "name": "metal"
+    },
+    {
+      "id": 3,
+      "name": "paper"
+    },
+    {
+      "id": 4,
+      "name": "plastic"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

@@ -1,11 +1,14 @@
 
-path: ./dataset  # dataset root dir
+path: datasets  # dataset root dir
 train: train/images  # train images (relative to 'path') 128 images
 val: val/images  # val images (relative to 'path') 128 images
 test:  # test images (optional)
 
 # Classes
 names:
-  0: cardboard  # Replace 'your_class_name' with the actual class name
+  0: cardboard
   1: glass
   2: metal
+  3: paper
+  4: plastic
+
