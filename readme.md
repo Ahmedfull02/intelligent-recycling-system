@@ -70,7 +70,7 @@ Select the **Path** of *environment.yml* file in project folder.
 
 ![alt text](images/image-2.png)
 
-> [!NOTE]  
+> [!Important]  
 > Don't worry, It take too much time to install all dependencies 👍.
 
 
@@ -89,7 +89,7 @@ To train model it is necessary to use ***Google Colab***, because it offers free
 2) Choose Runtime Environment which has **GPU T4**
 3) Run all cells 
 
-> [!NOTE]  
+> [!Important]  
 > In the **model.train** cell modification of the *epoch* time is acceptable.
 >
 > ```results = model.train(data="garbage-classification-3/data.yaml", epochs="you choosed numberr", imgsz=640) ```
@@ -99,7 +99,7 @@ To train model it is necessary to use ***Google Colab***, because it offers free
 4)All results are saved in **run** folder.
 
 ### Load
-> [!NOTE]  
+> [!Important]  
 > In This repo, all Models are already trained.
 
 1. In model.load cell, put the wanted model. 
