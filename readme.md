@@ -100,7 +100,7 @@ To train model it is necessary to use ***Google Colab***, because it offers free
 
 ### Load
 > [!NOTE]  
-> In This repo the Models already trained.
+> In This repo, all Models are already trained.
 
 1. In model.load cell, put the wanted model. 
 ```
